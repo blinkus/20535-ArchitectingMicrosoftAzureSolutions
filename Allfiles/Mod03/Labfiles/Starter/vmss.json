@@ -33,7 +33,7 @@
             "overprovisionInstances": "[parameters('overprovision')]"
         },
         "vm": {
-            "size": "Standard_A1_v2",
+            "size": "Standard_A1",
             "authentication": {
                 "username": "Student",
                 "password": "StudentPa55w.rd"
